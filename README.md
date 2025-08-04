@@ -2,10 +2,10 @@
 ## Group 4 | DSA 2040A – Semester Project
 
 ## Colaborators
-Student 1 - George Rading "https://github.com/Stephen-Austine"
-Student 2 - Stephen W. Austine "https://github.com/Stephen-Austine"
-Student 3 - Jessica Stephen 
-Student 4 - Prince Musembi "https://github.com/MusembiPrince"
+- Student 1 - George Rading "https://github.com/Stephen-Austine"
+- Student 2 - Stephen W. Austine "https://github.com/Stephen-Austine"
+- Student 3 - Jessica Stephen 
+- Student 4 - Prince Musembi "https://github.com/MusembiPrince"
 
 ## Project Summary
 Short description of the scenario, objectives, and business case. About 74% of banks in the US are impacted by fraudulent activities—especially fraudulent transactions. Many of these either go undetected or are inadequately flagged by conventional bank systems. This alarming reality demands smarter, data-driven solutions that are not only more accurate but also offer real-time fraud scoring, explainability, and location/time awareness. Your project rises to this challenge with an enhanced fraud detection model that compares bank-flagged frauds against a hybrid anomaly model, unveiling hidden patterns across four interactive pages.
