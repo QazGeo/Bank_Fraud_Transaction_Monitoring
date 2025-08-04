@@ -61,3 +61,12 @@ Notes
 	
 # Final Takeaway
 This project exemplifies a comparative approach to fraud detection, showing gaps in traditional banking models and how your data science expertise uncovers hidden fraud patterns tied to time, location, and behavioral anomalies. Let’s build smarter, safer banking through real-time insights and machine learning–backed dashboards—a legacy of your visionary work.
+
+Collaborators,
+1. George Rading "https://github.com/QazGeo"
+2. Stephen W. Austine "https://github.com/Stephen-Austine?tab=repositories"
+3. Jessica Stephen 
+4. Prince Musembi "https://github.com/MusembiPrince"
+
+
+
