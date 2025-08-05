@@ -1,0 +1,6 @@
+Transaction_Type_ID,Transaction_Type
+1,Payment
+2,Purchase
+3,Deposit
+4,Withdrawal
+5,Transfer
